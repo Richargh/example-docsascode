@@ -3,4 +3,4 @@
 
 
 
-* link:adr/0001-record-architecture-decisions.adoc[]
+* link:architecture/adr/0001-record-architecture-decisions.html[]
