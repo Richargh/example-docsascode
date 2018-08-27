@@ -1,0 +1,8 @@
+| _<Title-1>_
+| A lot of text for the heck of it and I am running out of things to say so there you go
+| Use Framework X (must: Functionality: AJAX support, validation rules, i18n) (?: High development velocity (compared to existing approach))
+
+| Status
+| Consequences
+| Alternatives
+|

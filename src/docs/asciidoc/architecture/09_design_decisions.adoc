@@ -1,0 +1,6 @@
+[[section-design-decisions]]
+== Design Decisions
+
+
+
+* link:adr/0001-record-architecture-decisions.adoc[]

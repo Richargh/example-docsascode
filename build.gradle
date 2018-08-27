@@ -1,0 +1,21 @@
+plugins {
+    id 'java'
+    id 'org.asciidoctor.convert' version '1.5.3'
+}
+
+
+apply plugin: 'java'
+apply plugin: 'org.asciidoctor.convert'
+
+group 'richargh'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
