@@ -1,6 +1,8 @@
-= HTML, PDF, DocBook & epub3 Example
+= Docs-as-Code Arc42 and ADR Example
 
-An example project that demonstrates how to convert AsciiDoc to HTML, PDF, DocBook & epub3 using the Asciidoctor Gradle plugin.
+An example project that demonstrates how to convert AsciiDoc to HTML using the Asciidoctor Gradle plugin.
+The project includes the Arc42 architecture template (which can be found https://arc42.org/download[online])
+and uses http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions[architecture decision records (ADR)] to record architecture decisions.
 
 == Usage
 
@@ -8,10 +10,4 @@ Convert the AsciiDoc to HTML, PDF, DocBook & epub3 by invoking the 'asciidoctor'
 
  $ ./gradlew asciidoctor
 
-Open the file _build/asciidoc/epub3/example-manual.epub_  in your browser to see the generated epub file.
-
 Open the file _build/asciidoc/html5/example-manual.html_ in your browser to see the generated HTML file.
-
-Open the file _build/asciidoc/pdf/example-manual.pdf_ in your browser to see the generated PDF file.
-
-Open the file _build/asciidoc/pdf/example-manual.xml_ in your browser to see the generated DocBook file.
