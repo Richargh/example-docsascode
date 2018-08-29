@@ -1,18 +1,18 @@
 [[section-runtime-view]]
-== Runtime View
+== Laufzeitsicht
 
 
 
 
-=== <Runtime Scenario 1>
+=== _<Bezeichnung Laufzeitszenario 1>_
 
+*  <hier Laufzeitdiagramm oder Ablaufbeschreibung einfügen>
+*  <hier Besonderheiten bei dem Zusammenspiel der Bausteine in diesem Szenario erläutern>
 
-* _<insert runtime diagram or textual description of the scenario>_
-* _<insert description of the notable aspects of the interactions between the
-building block instances depicted in this diagram.>_
+=== _<Bezeichnung Laufzeitszenario 2>_
 
-=== <Runtime Scenario 2>
+...
 
-=== ...
+=== _<Bezeichnung Laufzeitszenario n>_
 
-=== <Runtime Scenario n>
+...

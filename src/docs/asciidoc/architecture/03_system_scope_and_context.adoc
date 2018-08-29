@@ -1,24 +1,26 @@
 [[section-system-scope-and-context]]
-== System Scope and Context
+
+== Kontextabgrenzung
 
 
 
 
 
-=== Business Context
+=== Fachlicher Kontext
 
 
 
-**<Diagram or Table>**
+**<Diagramm und/oder Tabelle>**
 
-**<optionally: Explanation of external domain interfaces>**
-
-=== Technical Context
+**<optional: Erläuterung der externen fachlichen Schnittstellen>**
 
 
+=== Technischer Kontext
 
-**<Diagram or Table>**
 
-**<optionally: Explanation of technical interfaces>**
 
-**<Mapping Input/Output to Channels>**
+**<Diagramm oder Tabelle>**
+
+**<optional: Erläuterung der externen technischen Schnittstellen>**
+
+**<Mapping fachliche auf technische Schnittstellen>**

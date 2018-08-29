@@ -1,109 +1,109 @@
 [[section-building-block-view]]
 
 
-== Building Block View
+== Bausteinsicht
 
 
 
-=== Whitebox Overall System
+=== Whitebox Gesamtsystem
 
 
 
-_**<Overview Diagram>**_
+_**<Übersichtsdiagramm>**_
 
-Motivation::
+Begründung::
 
-_<text explanation>_
-
-
-Contained Building Blocks::
-_<Description of contained building block (black boxes)>_
-
-Important Interfaces::
-_<Description of important interfaces>_
+_<Erläuternder Text>_
 
 
+Enthaltene Bausteine::
+_<Beschreibung der enhaltenen Bausteine (Blackboxen)>_
 
-
-==== <Name black box 1>
-
-
-
-_<Purpose/Responsibility>_
-
-_<Interface(s)>_
-
-_<(Optional) Quality/Performance Characteristics>_
-
-_<(Optional) Directory/File Location>_
-
-_<(Optional) Fulfilled Requirements>_
-
-_<(optional) Open Issues/Problems/Risks>_
+Wichtige Schnittstellen::
+_<Beschreibung wichtiger Schnittstellen>_
 
 
 
 
-==== <Name black box 2>
-
-_<black box template>_
-
-==== <Name black box n>
-
-_<black box template>_
-
-
-==== <Name interface 1>
-
-...
-
-==== <Name interface m>
+==== <Name Blackbox 1>
 
 
 
-=== Level 2
+_<Zweck/Verantwortung>_
+
+_<Schnittstelle(n)>_
+
+_<(Optional) Qualitäts-/Leistungsmerkmale>_
+
+_<(Optional) Ablageort/Datei(en)>_
+
+_<(Optional) Erfüllte Anforderungen>_
+
+_<(optional) Offene Punkte/Probleme/Risiken>_
 
 
 
-==== White Box _<building block 1>_
+
+==== <Name Blackbox 2>
+
+_<Blackbox-Template>_
+
+==== <Name Blackbox n>
+
+_<Blackbox-Template>_
 
 
-
-_<white box template>_
-
-==== White Box _<building block 2>_
-
-
-_<white box template>_
+==== <Name Schnittstelle 1>
 
 ...
 
-==== White Box _<building block m>_
-
-
-_<white box template>_
+==== <Name Schnittstelle m>
 
 
 
-=== Level 3
+=== Ebene 2
+
+
+
+==== Whitebox _<Baustein 1>_
+
+
+
+_<Whitebox-Template>_
+
+==== Whitebox _<Baustein 2>_
+
+
+_<Whitebox-Template>_
+
+...
+
+==== Whitebox _<Baustein m>_
+
+
+_<Whitebox-Template>_
+
+
+
+=== Ebene 3
 
 
 
 
-==== White Box <_building block x.1_>
+==== Whitebox <_Baustein x.1_>
 
 
 
 
-_<white box template>_
+_<Whitebox-Template>_
 
 
-==== White Box <_building block x.2_>
+==== Whitebox <_Baustein x.2_>
 
-_<white box template>_
+_<Whitebox-Template>_
 
 
 
-==== White Box <_building block y.1_>
+==== Whitebox <_Baustein y.1_>
 
-_<white box template>_
+_<Whitebox-Template>_

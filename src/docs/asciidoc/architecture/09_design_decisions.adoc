@@ -1,6 +1,5 @@
 [[section-design-decisions]]
-== Design Decisions
 
+== Entwurfsentscheidungen
 
-
-* link:architecture/adr/0001-record-architecture-decisions.html[]
+* link:architecture/adr/0001-entwurfsentscheidungen-festhalten.html[]

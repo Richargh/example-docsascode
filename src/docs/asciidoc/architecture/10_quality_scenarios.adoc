@@ -1,13 +1,16 @@
 [[section-quality-scenarios]]
-== Quality Requirements
+== Qualitätsanforderungen
 
 
 
 
-=== Quality Tree
+
+=== Qualitätsbaum
 
 
 
-=== Quality Scenarios
+
+
+=== Qualitätsszenarien
 
 

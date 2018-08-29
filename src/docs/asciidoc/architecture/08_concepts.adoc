@@ -1,22 +1,22 @@
 [[section-concepts]]
-== Cross-cutting Concepts
+== Querschnittliche Konzepte
 
 
 
 
 
-=== _<Concept 1>_
+=== _<Konzept 1>_
 
-_<explanation>_
+_<Erklärung>_
 
 
 
-=== _<Concept 2>_
+=== _<Konzept 2>_
 
-_<explanation>_
+_<Erklärung>_
 
 ...
 
-=== _<Concept n>_
+=== _<Konzept n>_
 
-_<explanation>_
+_<Erklärung>_

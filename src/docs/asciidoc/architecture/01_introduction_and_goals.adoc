@@ -1,23 +1,26 @@
 [[section-introduction-and-goals]]
-== Introduction and Goals
+==	Einführung und Ziele
 
 
 
-=== Requirements Overview
+
+=== Aufgabenstellung
 
 
 
-=== Quality Goals
+=== Qualitätsziele
 
 
 
-=== Stakeholders
+=== Stakeholder
 
 
 
-[options="header",cols="1,2,2"]
+
+
+[cols="1,1,2" options="header"]
 |===
-|Role/Name|Contact|Expectations
-| _<Role-1>_ | _<Contact-1>_ | _<Expectation-1>_
-| _<Role-2>_ | _<Contact-2>_ | _<Expectation-2>_
+|Rolle |Kontakt |Erwartungshaltung
+| _<Rolle-1>_ | _<Kontakt-1>_ | _<Erwartung-1>_
+| _<Rolle-2>_ | _<Kontakt-2>_ | _<Erwartung-2>_ 
 |===

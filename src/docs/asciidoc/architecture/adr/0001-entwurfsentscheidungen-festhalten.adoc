@@ -1,0 +1,44 @@
+= 1. Entwurfsentscheidungen festhalten
+
+Datum: 2018-08-29
+
+== Status
+
+Akzeptiert
+
+== Kontext
+
+Wir müssen Entwurfsentscheidungen in diesem Projekt festhalten.
+
+== Entscheidung
+
+Wir werden Architecture Decision Records (ADR) nutzen, erstmals beschrieben von Michael Nygard in http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions[diesem Artikel].
+Mehr ADR Beispiele findet man https://github.com/npryce/adr-tools/tree/master/doc/adr[online in Nat Pryces Github].
+
+Wir werden zu dem regulären Format (bestehend aus Titel, Status, Kontext, Entscheidung, Auswirkung) den Bereich Alternativen hinzufügen.
+Wir werden auch Entscheidungskriterien festhalten wie es https://docs.arc42.org/tips/9-5/[arc42 vorschlägt].
+
+== Entscheidungskriterien
+
+[options="header",cols="1,2,2"]
+|===
+| ID            | Kriterium                                 | Wichtigkeit
+| C1            | Leicht zu benutzen                        | Muss
+| C2            | Minimaler overhead                        | Muss
+| C3            | Leicht integrierbar in die doctoolchain   | nett-zu-haben
+|===
+
+
+== Alternativen
+
+
+[options="header",cols="1,2"]
+|===
+| Alternative               | Warum nicht gewählt
+| Keine Doku, nur mündlich. | Eine Woche reicht, um zu vergessen warum etwas gewählt wurde.
+| Mehr Prozess              | Zu viel overhead
+|===
+
+== Auswirkung
+
+Beschrieben in dem oben verlinkten Artikel von Nygard.

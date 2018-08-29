@@ -5,7 +5,7 @@
 
 = image:arc42-logo.png[arc42] Template
 // toc-title definition MUST follow document title without blank line!
-:toc-title: Table of Contents
+:toc-title: Inhaltsverzeichnis
 
 //additional style for arc42 help callouts
 ifdef::basebackend-html[]
@@ -22,7 +22,7 @@ ifdef::basebackend-html[]
 ++++
 endif::basebackend-html[]
 
-// configure EN settings for asciidoc
+// configure DE settings for asciidoc
 include::architecture/config.adoc[]
 
 
@@ -38,51 +38,49 @@ include::architecture/about-arc42.adoc[]
 :numbered:
 
 <<<<
-// 1. Introduction and Goals
+// 1. Anforderungen und Ziele
 include::architecture/01_introduction_and_goals.adoc[]
 
 <<<<
-// 2. Architecture Constraints
+// 2. Randbedingungen
 include::architecture/02_architecture_constraints.adoc[]
 
 <<<<
-// 3. System Scope and Context
+// 3. Kontextabgrenzung
 include::architecture/03_system_scope_and_context.adoc[]
 
 <<<<
-// 4. Solution Strategy
+// 4. Lösungsstrategie
 include::architecture/04_solution_strategy.adoc[]
 
 <<<<
-// 5. Building Block View
+// 5. Bausteinsicht
 include::architecture/05_building_block_view.adoc[]
 
 <<<<
-// 6. Runtime View
+// 6. Laufzeitsicht
 include::architecture/06_runtime_view.adoc[]
 
 <<<<
-// 7. Deployment View
+// 7. Verteilungssicht
 include::architecture/07_deployment_view.adoc[]
 
 <<<<
-// 8. Concepts
+// 8. Querschnittliche Konzepte
 include::architecture/08_concepts.adoc[]
 
 <<<<
-// 9. Design Decisions
+// 9. Entscheidungen
 include::architecture/09_design_decisions.adoc[]
 
 <<<<
-// 10. Quality Scenarios
+// 10. Qualität...
 include::architecture/10_quality_scenarios.adoc[]
 
 <<<<
-// 11. Technical Risks
+// 11. Risiken
 include::architecture/11_technical_risks.adoc[]
 
 <<<<
-// 12. Glossary
+// 12. Glossar
 include::architecture/12_glossary.adoc[]
-
-

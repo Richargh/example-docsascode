@@ -1,42 +1,43 @@
 [[section-deployment-view]]
 
 
-== Deployment View
+== Verteilungssicht
 
 
 
-=== Infrastructure Level 1
+=== Infrastruktur Ebene 1
 
 
 
-_**<Overview Diagram>**_
 
-Motivation::
+_**<Übersichtsdiagramm>**_
 
-_<explanation in text form>_
+Begründung::
 
-Quality and/or Performance Features::
+_<Erläuternder Text>_
 
-_<explanation in text form>_
+Qualitäts- und/oder Leistungsmerkmale::
 
-Mapping of Building Blocks to Infrastructure::
-_<description of the mapping>_
+_<Erläuternder Text>_
 
-
-=== Infrastructure Level 2
+Zuordnung von Bausteinen zu Infrastruktur::
+_<Beschreibung der Zuordnung>_
 
 
+=== Infrastruktur Ebene 2
 
-==== _<Infrastructure Element 1>_
 
-_<diagram + explanation>_
 
-==== _<Infrastructure Element 2>_
+==== _<Infrastrukturelement 1>_
 
-_<diagram + explanation>_
+_<Diagramm + Erläuterungen>_
+
+==== _<Infrastrukturelement 2>_
+
+_<Diagramm + Erläuterungen>_
 
 ...
 
-==== _<Infrastructure Element n>_
+==== _<Infrastrukturelement n>_
 
-_<diagram + explanation>_
+_<Diagramm + Erläuterungen>_
